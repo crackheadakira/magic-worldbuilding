@@ -1,0 +1,1 @@
+n /n/ - negative; not → as suffix negates individual roots; as prefix negates whole compound

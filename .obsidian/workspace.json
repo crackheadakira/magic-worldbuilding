@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "84a3412b101be09d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5a56c8aa69fb067",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d34a03a48275ed87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worldbuilding/History Dating System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "History Dating System"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "067be79e55a2ce60",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7acadb1b1bc0791",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17c2b8a848cd2752",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4d41a8bc347f87b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e5c1aad0383a642c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7747b79750233208",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb3dfdbc366fcf6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceeed13983aa5797",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Worldbuilding/History Dating System.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for History Dating System"
+            }
+          },
+          {
+            "id": "7e0e27e3102e81bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Worldbuilding/History Dating System.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from History Dating System"
+            }
+          },
+          {
+            "id": "407f7107157bda31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f4004db1ca622f8f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d1dbec024f176ed9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Worldbuilding/History Dating System.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of History Dating System"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d34a03a48275ed87",
+  "lastOpenFiles": [
+    "Worldbuilding/Magicians.md",
+    "Worldbuilding/Mana.md",
+    "Worldbuilding/History Dating System.md",
+    "Worldbuilding/Characters/Kievy Poi.md",
+    "Worldbuilding/Timeline.md",
+    "Worldbuilding/Significant Figures.md",
+    "Worldbuilding/Countries/Kyam.md",
+    "Worldbuilding/Countries",
+    "Worldbuilding/Spells",
+    "Worldbuilding/Characters/Kytäk Plöö.md",
+    "Worldbuilding/Historical Sites/Tova.md",
+    "Worldbuilding/Gods/God of Trickery.md",
+    "Worldbuilding/Historical Sites",
+    "Worldbuilding/Gods",
+    "Worldbuilding/Characters",
+    "Conlang/Rules.md",
+    "Conlang/Vowels & Consonants.md",
+    "Conlang/Words.md",
+    "Conlang/Roots.md",
+    "Conlang/Affix.md",
+    "Conlang/Notes.md",
+    "Untitled",
+    "Conlang/Syllables.md",
+    "Welcome.md",
+    "create a link.md",
+    "Conlang",
+    "Worldbuilding"
+  ]
+}

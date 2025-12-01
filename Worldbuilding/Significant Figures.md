@@ -1,0 +1,2 @@
+- Kievi Poi --> led to birth of magicians
+- Kytäk Plöö --> revolutionzed manufacturing

@@ -1,0 +1,12 @@
+- Let's say we had a word for blacksmith, Vyrus + Blkytyus. Need a good way to combine these other than Vyrusblkytyus / Vyrblkytyus / Blkytyusvyrus / Blkytyvyrus → an actual system to define the rules of this proto conlang
+- Need to make lexicalization rules for turning compounds into a new root when I deem the word becomes too long (i.e. Plööblkytyamyusy), prevents infinite compounding.
+- Need to learn how to use IPA properly (difference in /t/ and /’t/).
+- Diachronics, phonological/lexical erosion → see how to apply them to the language.
+- Formalize language phonology
+	- Places of articulation
+	- Manners of articulation
+	- Phonetic v. allephonic rules
+	- Phonotatic constraints formalized
+	- Stress & prosody formalized
+	- Syllable diagrams
+	- Morphonology
