@@ -1,2 +1,3 @@
-- Kievi Poi --> led to birth of magicians
-- Kytäk Plöö --> revolutionzed manufacturing
+- Kievi Poi --> Led to birth of magicians
+- Kytäk Plöö --> Revolutionzed manufacturing
+- Blevyus Prietus --> First emperor
