@@ -11,9 +11,10 @@
 - Infix
 - Classifier
 - Pronoun
-## [Word (Type)]
+## [Word]
 **Part of Speech:**  [[#Part of Speech Options]]
 **IPA:** /[IPA]/
+**Syllable Construction (only for roots)**
 **Meaning:**
 1. [Various meanings]
 

@@ -1,3 +1,7 @@
-This war began in 28 KP and lasted for 7 years, finally ending in 21 KP with the victory of the [MAGICIAN]s. The war was a result of increasing discrimination towards magicians, with many of them being enslaved until [Prietus the First] decided to lead a revolutionary army from the depths of [Byut]. This army, dubbed [the Holy Messengers], had it's first battle with [[Kyam]], which was won by [the Holy Messengers] in overwhelming success.
+The **War of the Lesser Beings** was a conflict between the [Holy Messengers] and the [Greater Jekoyv Area]. The conflict began in 28 KP and lasted for seven years, ending in the victory of the [the Holy Messengers].
 
-This battle occurred on the 112th day of 28 KP, and lasted for only 5 days before [the ruler of Kyam] surrendered. Kyam's ruler was spared by [Prietus the First] --- a moment now known as [pity by the first].
+# Overview
+The conflict arose as a result of increasing discrimination and systematic oppression directed towards magicians through the [Greater Jekoyv Area]. In 29 KP, the policies were developed to include enslaving. As a reaction to this [Prietus the First] gathered an army of [magicians], largely made up of people from [Byut]. This army became known as the [Holy Messengers].
+
+## Battle of Kyam
+The **Battle of Kyam** occurred on the 112th day of 28 KP and lasted for only five days, ending with the surrender of [[Kyam]]. The [Holy Messengers] victory in the **Battle of Kyam** cemented the fear of [magicians] among the nobles of the [Greater Jekoyv Area]. The common folks support for the army increased after this battle due to [Prietus the First] sparing the ruler of Kyam --- an event referred to as the [First Pity] by scholars.
