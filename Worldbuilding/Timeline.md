@@ -1,21 +1,23 @@
-## 1092 KP (1821 AD)
+****## 287 KP (1821 AD)
 - [[Kievy Poi]]'s soil experiment
-## 994 KP (1919 AD)
+## 189 KP (1919 AD)
 - Activation of soil mana leading to conception of G-ZERO
-## 993 KP (1920 AD)
+## 188 KP (1920 AD)
 - Birth of G-ZERO
-## 965 KP (1948 AD)
+## 144 KP (1948 AD)
 - Death of last member of G-ZERO
-## 893 KP (2020 AD)
+## 72 KP (2020 AD)
 - Birth of Gen. One
-## 847 KP (2066 AD)
+## 28 KP (2066 AD)
 - Start of the war of the Lesser Beings
-## 840 KP (2073 AD)
+## 21 KP (2073 AD)
 - End of the war of the Lesser Beings
-## 251 KP (2662 AD)
+## 0 KPN (2108 AD)
+- The Magician Deity declares a new historical calendar
+## 250 KPN (2359 AD)
 - [[Kytäk Plöö]]'s revolutionizing magic manufacturing methodology
 - Development of Magician's Rain
-## 250 KP (2663 AD)
+## 251 KPN (2360 AD)
 - [[Kyam]] settling as number one super-power in the world
-## 612 KPN (3525 AD)
+## 612 KPN (2721 AD)
 - Present time

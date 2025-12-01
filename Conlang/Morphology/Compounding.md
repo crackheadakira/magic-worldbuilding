@@ -1,0 +1,3 @@
+ - A compound is a word that is made of two or more roots + affixes, can often be 3+ syllables
+- When a consonant cluster violates the root or compound syllable rules, insert a short vowel (often /e/ or /ɤ/)
+- When compounding two independent nouns or titles & names, add a space in-between

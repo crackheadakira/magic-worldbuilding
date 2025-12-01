@@ -1,0 +1,4 @@
+- Subject → Verb → Object
+- Zero copula (no explicit am)
+- Proper nouns capitalized
+- Y acts as a consonant if placed before a vowel

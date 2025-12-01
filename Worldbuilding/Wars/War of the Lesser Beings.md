@@ -1,0 +1,3 @@
+This war began in 28 KP and lasted for 7 years, finally ending in 21 KP with the victory of the [MAGICIAN]s. The war was a result of increasing discrimination towards magicians, with many of them being enslaved until [Prietus the First] decided to lead a revolutionary army from the depths of [Byut]. This army, dubbed [the Holy Messengers], had it's first battle with [[Kyam]], which was won by [the Holy Messengers] in overwhelming success.
+
+This battle occurred on the 112th day of 28 KP, and lasted for only 5 days before [the ruler of Kyam] surrendered. Kyam's ruler was spared by [Prietus the First] --- a moment now known as [pity by the first].

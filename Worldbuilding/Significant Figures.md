@@ -1,3 +1,3 @@
 - Kievi Poi --> Led to birth of magicians
 - Kytäk Plöö --> Revolutionzed manufacturing
-- Blevyus Prietus --> First emperor
+- Prietus the First --> First Deity of Magicians

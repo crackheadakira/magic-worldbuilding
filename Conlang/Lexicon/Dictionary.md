@@ -3,7 +3,21 @@ Blkyty-am-yus /’blɤktiamius/ - A magician; a follower who deceives the world
 Blkyty-plt /’blɤktiplht/ - War; end of world
 Blkyty-äk /’blɤktiæk/ - Bodies of water
 Blkytyprie /’blɤktiprie/ - Mineral; ore
-Bl-öö-kyty /’bløːkti/ - An object above the world; a magician’s power; man
+# Nouns
+## Blöökyty (compound)
+**Part of Speech:** noun
+**IPA:** /’bløːkti/
+**Meaning:** 
+1. An object believed to exist above the world (poetic or mythic usage)
+2. Invisible particles that float everywhere in the world (scientific)
+3. The energy of the world that a magician wields to create spells
+
+**Etymology:**
+Compound of *blöö* (mana) + *ky* (to help) + *-ty* (nominal suffix)
+**Notes:**
+- Meaning #1 is only found in old records and religious texts, can sometimes also be interchanged with minions of god
+- Meaning #2 is strict with it's definition and is only used in the scientific community
+- Meaning #3 is the common usage of the word, used commonly by non-magicians and magicians alike in their daily-life.
   
 Kyty-öö /’ktiøː/ - Concept of time; above the cycle
 Kyty-öö-y /’ktiøːi/ - Time experienced; the present

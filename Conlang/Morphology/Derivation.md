@@ -1,24 +1,3 @@
-Non-gendered subjects
-Zero copula (no explicit am)
-Proper nouns capitalized
-Y acts as a consonant if placed before a vowel
-
-Subject → 	Verb → 	Object
-I		         [am] above	    you
-Plus		öö		                 plusky
-ЮΠ		Я̂		                     ЮΠКЦ
-Юп		     я̀		                     юпкц
-
-We		         [are] above	y’all
-Plusöö		öö		             pluskyöö
-ЮΠЯ̀		    Я̀		                 ЮΠКЦЯ̀
-Юпя̀		    я̀		                 юпкця̀
-
-I 		         follower [of]	     Plööky	
-Plus		yus		                  PLÖÖKY
-ЮΠ		ЦΠ		                  ЮЯ̀К
-Юп		    цп		                  ЮЯ̀К
-
 **-us 	→ agent noun / doer suffix**
 ROOT (action or relation) + us → agent noun; one who performs / embodies the root action
 Pl**us** 	→ A being	→ the self-being	→ me
