@@ -1,11 +1,50 @@
 [ X ] – unwritten
 { X } – lengthened
 
-Am /am/ - To trick; deceive (VC)
-Äk /æk/ - Water; transparent liquid (VC)
-Äkkyty /ækti/ - Rain; life cycle of water (VC-CCVC)
+## Am
+**Part of Speech:**  Verb
+**IPA:** /am/
+**Syllable Construction**: VC
+**Meaning:**
+1.  To trick (someone).
+2.  To deceive (someone).
 
-Bl /blɤ/ - An object (CC[V])
+**Notes:**
+- The word can be used lightly or heavily dependent on the context — e.g. a prank.
+
+## Äk
+**Part of Speech:**  Noun
+**IPA:** /æk/
+**Syllable Construction:** VC
+**Meaning:**
+1.  Water.
+2.  A see-through liquid.
+
+**Notes:**
+-  The word is rarely used to ever mean a see-through liquid, but is still able to be used for that.
+
+## Äkkyty
+**Part of Speech:**  Noun
+**IPA:** /ækti/
+**Syllable Construction:** VC-CCVC
+**Meaning:**
+1.  Rain
+2.  The life cycle of water  
+
+**Notes:**
+- Meaning #1 has an unspecified intensity of the rain, the intensity has to be added as it’s own word before the usage of *äkkyty*.
+- Meaning #2 means how water changes: ice → liquid → steam
+
+## Bl
+**Part of Speech:**  Noun
+**IPA:** /blɤ/
+**Syllable Construction:** CC[V]
+**Meaning:**
+1.  A material thing that can be seen or touched.
+
+**Notes:**
+- The word is pronounced with a “**ɤ**” sound, but not written.
+
 Blvyr /blɤvir/ - The sun; a ball of fire (CC[V]-CVC)
 Blnvyröö /blɤnvirøː/ - The moon; an object of darkness (CC[V]C-CVC-{V}) One too many syllables
 

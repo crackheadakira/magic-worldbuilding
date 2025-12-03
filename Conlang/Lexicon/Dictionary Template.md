@@ -14,12 +14,14 @@
 ## [Word]
 **Part of Speech:**  [[#Part of Speech Options]]
 **IPA:** /[IPA]/
-**Syllable Construction (only for roots)**
+**Syllable Construction:** (only for roots)
 **Meaning:**
 1. [Various meanings]
 
 **Etymology:** [Root information, compounds, sound changes, borrowed forms]
-**Notes:** [Usage notes, register, irregular forms, grammatical quirks]
+**Notes:**
+- [Usage notes, register, irregular forms, grammatical quirks]
+
 **Examples:**
 - [Example sentence in conlang] - "[translation]"
 

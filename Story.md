@@ -1,0 +1,6 @@
+- Follows three different major wars
+	- Technological War (57–54 KP)
+		- War that led to the destruction of modern technology, regressing the world’s technological advancements to one of the 1500s.
+	- [[War of the Lesser Beings]] (28–21 KP)
+	- Three Leagues War (5–19 KPN)
+		- Attempt to overthrow the Deity by two **royal** families, separate factions, all enemies
