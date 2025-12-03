@@ -1,8 +1,19 @@
-Bl-kyty /’blɤkti/ - The world
 Blkyty-am-yus /’blɤktiamius/ - A magician; a follower who deceives the world
 Blkyty-plt /’blɤktiplht/ - War; end of world
 Blkyty-äk /’blɤktiæk/ - Bodies of water
 Blkytyprie /’blɤktiprie/ - Mineral; ore
+
+## Blkyty
+**Part of Speech:**  Noun
+**IPA:** /’blɤkti/
+**Meaning:**
+1. The place we live in; the world
+2. A planet
+
+**Etymology:** Compound of *bl* (an object) + *kyty* (a cycle), hence an object that contains a cycle, or the cycle revolves around.
+**Notes:**
+- Meaning #1 is the common usage of it, used to for example talk about global issues, it does not refer to the local area.
+- Meaning #2 is less commonly used, but can be seen when discussing the stars we see in the sky.
 ## Blöökyty
 **Part of Speech:** noun
 **IPA:** /’bløːkti/
@@ -11,11 +22,10 @@ Blkytyprie /’blɤktiprie/ - Mineral; ore
 2. Invisible particles that float everywhere in the world (scientific)
 3. The energy of the world that a magician wields to create spells
 
-**Etymology:**
-Compound of *blöö* (mana) + *ky* (to help) + *-ty* (nominal suffix)
+**Etymology:** Compound of *blöö* (mana) + *ky* (to help) + *-ty* (nominal suffix)
 **Notes:**
-- Meaning #1 is only found in old records and religious texts, can sometimes also be interchanged with minions of god
-- Meaning #2 is strict with it's definition and is only used in the scientific community
+- Meaning #1 is only found in old records and religious texts, can sometimes also be interchanged with minions of god.
+- Meaning #2 is strict with it's definition and is only used in the scientific community.
 - Meaning #3 is the common usage of the word, used commonly by non-magicians and magicians alike in their daily-life.
   
 Kyty-öö /’ktiøː/ - Concept of time; above the cycle
