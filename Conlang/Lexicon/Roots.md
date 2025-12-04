@@ -1,6 +1,9 @@
-[ X ] – unwritten
-{ X } – lengthened
 
+> [!INFO] Syllable Construction Legend
+> - **[C / V]** is used to denote a consonant or vowel that is not written in the word but is pronounced.
+> - **{C / V}** is used to denote a consonant or vowel that is pronounced for a longer period of time.
+> 
+> CC[V] is an example of an unwritten vowel (*/blɤ/*)
 ## Am
 **Part of Speech:**  Verb
 **IPA:** /am/
@@ -43,15 +46,50 @@
 1.  A material thing that can be seen or touched.
 
 **Notes:**
-- The word is pronounced with a “**ɤ**” sound, but not written.
+- The word is pronounced with a /ɤ/ sound, but not written.
 
 Blvyr /blɤvir/ - The sun; a ball of fire (CC[V]-CVC)
 Blnvyröö /blɤnvirøː/ - The moon; an object of darkness (CC[V]C-CVC-{V}) One too many syllables
 
-K /’ke/ - To care; heal (C[V])
-Ky /’ki/ - To help; aid (CV) 
-Kyn /’kin/ - To be unhelpful (CVC)
-Kyty /’kti/ - A cycle; A cycle of destroying & helping (CCV)
+## K
+**Part of Speech:** Verb
+**IPA:** /’ke/
+**Syllable Construction:** C[V]
+**Meaning:**
+1. To care for someone; empathy
+2. To take care of an object or person
+3. To heal a being; mend; repair
+
+**Notes:**
+- Is pronounced with an /e/ at the end to abide by syllable rules
+## Ky
+**Part of Speech:** Verb
+**IPA:** /’ki/
+**Syllable Construction:** CV
+**Meaning:**
+1. To help
+2. To assist
+3. To aid
+
+## Kyn
+**Part of Speech:** Verb
+**IPA:** /’kin/
+**Syllable Construction:** CVC
+**Meaning:**
+1. To be unhelpful
+
+**Etymology:** Derived from [[#Ky |ky]] + negated with n suffix
+## Kyty
+**Part of Speech:**  Noun
+**IPA:** /’kti/
+**Syllable Construction:** CCV
+**Meaning:**
+1. A cycle
+2. A cycle of destruction & help
+
+**Etymology:** A combination of *ky* + *ty*, making it an oxymoron -> cycle
+**Notes:**
+- Meaning #2 is a specific type of cycle, typically used in religious texts or historical context
 
 Pl /’pl/ - A being; creature (CC) Missing vowel
 Plt /’plht/ - To murder; to kill (CCCC) Missing vowel, too many consonants
@@ -79,3 +117,5 @@ Yöö /iøː/ - Plural; better / more helpful → multiple (V-{V})
 
 Öö /øː/ - To be above; Better (describe someone’s skill) ({V})
 Öön /øːn/ - To be lesser; worse ({V}C)
+
+[^1]: ASD

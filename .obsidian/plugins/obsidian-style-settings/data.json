@@ -1,0 +1,12 @@
+{
+  "baseline-style@@accented-interface": true,
+  "baseline-style@@color-scheme-light": "minimal-light",
+  "baseline-style@@radius-modifier": 0.5,
+  "baseline-style@@anim-motion-baseline": "cubic-bezier(0.32, 0.72, 0, 1)",
+  "baseline-style@@focus-view": true,
+  "baseline-style@@active-line-style": "active-line-side",
+  "baseline-style@@readable-spacing": true,
+  "baseline-style@@colorful-folders": "colorful-folders-dot",
+  "baseline-style@@bold-folders": true,
+  "baseline-style@@anim-speed-modifier": 1.5
+}

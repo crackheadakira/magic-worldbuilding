@@ -1,0 +1,2 @@
+# Spells
+[Magician]s transfer [mana] into atoms to transform the atom (similar to alchemy, O → H) or structure to match what they wish to cast. For example if they try to cast a [fire spell], they transform the atoms into combustible substances that are then instantly lit up and impart inertia onto the now-lit substance.

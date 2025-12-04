@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "7682cf33dcccd623",
+        "id": "46dce3d4ff739e3a",
         "type": "tabs",
         "children": [
           {
-            "id": "1f1654f25d9ca677",
+            "id": "77862140be7d66d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conlang/Lexicon/Roots.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roots"
+            }
+          },
+          {
+            "id": "5d231d416bdb0429",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,21 +36,20 @@
             }
           },
           {
-            "id": "d5306301ccb547ba",
+            "id": "7888a5a164ccf7e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conlang/Lexicon/Roots.md",
+                "file": "Conlang/Morphology/Affixes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roots"
+              "title": "Affixes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Emperor",
+                "query": "spells",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 211.5
   },
   "right": {
     "id": "7747b79750233208",
@@ -109,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worldbuilding/History Dating System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for History Dating System"
+              "title": "Backlinks"
             }
           },
           {
@@ -171,16 +183,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/History Dating System.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of History Dating System"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,43 +211,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5306301ccb547ba",
+  "active": "77862140be7d66d9",
   "lastOpenFiles": [
     "Conlang/Lexicon/Dictionary Template.md",
     "Conlang/Lexicon/Roots.md",
-    "Conlang/Lexicon/Dictionary.md",
-    "Worldbuilding/Wars/War of the Lesser Beings.md",
-    "Story.md",
-    "Worldbuilding/Timeline.md",
-    "Worldbuilding/Countries/Kyam.md",
-    "Worldbuilding/Significant Figures.md",
-    "Worldbuilding/Wars",
-    "Worldbuilding/Templates/Character.md",
-    "Worldbuilding/Templates",
-    "Conlang/Phonology/Vowels.md",
-    "Conlang/Phonology/Stress.md",
-    "Conlang/Phonology/Phonotactics.md",
-    "Conlang/Phonology/Consonants.md",
-    "Conlang/Phonology",
-    "Conlang/Morphology/Derivation.md",
-    "Conlang/Morphology/Compounding.md",
     "Conlang/Morphology/Affixes.md",
-    "Conlang/Morphology",
-    "Conlang/Lexicon",
-    "Conlang/Grammar/Pronouns.md",
-    "Conlang/Grammar/Example Sentences.md",
-    "Conlang/Grammar/Core Syntax.md",
-    "Conlang/Grammar",
-    "Conlang/Roots.md",
-    "Conlang/Vowels & Consonants.md",
-    "Worldbuilding/Mana.md",
-    "Worldbuilding/Magicians.md",
+    "Conlang/Lexicon/Dictionary.md",
+    "^ 83c7bd.md",
+    "Worldbuilding/Timeline.md",
+    "Worldbuilding/Wars/War of the Lesser Beings.md",
     "Worldbuilding/History Dating System.md",
-    "Worldbuilding/Characters/Kytäk Plöö.md",
+    "Worldbuilding/Significant Figures.md",
+    "Worldbuilding/Magic System/How it Works.md",
     "Worldbuilding/Characters/Kievy Poi.md",
+    "Worldbuilding/Characters/Kytäk Plöö.md",
+    "Worldbuilding/Countries/Kyam.md",
+    "Worldbuilding/Gods/God of Trickery.md",
+    "Worldbuilding/Historical Sites/Tova.md",
+    "Worldbuilding/Templates/Character.md",
+    "Worldbuilding/Magicians.md",
+    "Worldbuilding/Mana.md",
+    "Worldbuilding/Magic System",
+    "Story.md",
+    "Worldbuilding/Templates",
+    "Conlang/Phonology/Consonants.md",
+    "Conlang/Morphology/Compounding.md",
+    "Conlang/Morphology/Derivation.md",
+    "Conlang/Notes.md",
+    "Conlang/Phonology/Phonotactics.md",
+    "Conlang/Phonology/Stress.md",
+    "Conlang/Vowels & Consonants.md",
+    "Conlang/Lexicon",
+    "Conlang/Grammar",
+    "Conlang/Morphology",
+    "Conlang/Phonology",
+    "Conlang/Grammar",
+    "Worldbuilding/Wars",
     "Worldbuilding/Countries",
-    "Worldbuilding/Spells",
-    "Worldbuilding/Historical Sites",
-    "Worldbuilding/Gods"
+    "Worldbuilding/Spells"
   ]
 }
