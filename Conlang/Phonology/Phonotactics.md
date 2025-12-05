@@ -1,5 +1,5 @@
 Long vowels only appear in stressed syllables or elevated forms (-öö)
-Syllable structure follows (C)(C)V(C
+Syllable structure follows (C)(C)V(C)
 C = any consonant
 V = vowel
 Optional second C allows for only clusters that consist of these

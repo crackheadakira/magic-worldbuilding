@@ -1,6 +1,6 @@
 Magicians, they are referred to as Blkytyamyus (singular), and Blkytyamyusyöö (plural). Their name means a follower [of Blöökyty — [[Mana]]] who deceives the [nature of the] world.
 
-They first appeared in 993KP, being born in 100-year cycles. Thus the first-borns are referred to as Generation Zero, or simply G-ZERO. They slowly learned how to wield blöökyty, with the most notable amongst them being Daanus Virta — he wrote the first known record of the various applications of blöökyty. This record, dubbed the [MANA GROUND], became a helpful tool to the future generations to not die out like their ancestors.
+They first appeared in 993 KP, being born in 100-year cycles. Thus the firstborns are referred to as Generation Zero, or simply G-ZERO. They slowly learned how to wield blöökyty, with the most notable amongst them being Daanus Virta — he wrote the first known record of the various applications of blöökyty. This record, dubbed the [MANA GROUND], became a helpful tool to the future generations to not die out like their ancestors.
 
 Magicians were the accidental byproduct of chemist [[Kievy Poi]].
 [[Tova]] is now considered a heritage site, with many institutes being constructed in the surrounding area due to the common belief that there is a higher dense of [MANA] in the area — but also due to it’s historical importance.

@@ -2,7 +2,7 @@ Blkyty-am-yus /’blɤktiamius/ - A magician; a follower who deceives the world
 Blkyty-plt /’blɤktiplht/ - War; end of world
 Blkyty-äk /’blɤktiæk/ - Bodies of water
 Blkytyprie /’blɤktiprie/ - Mineral; ore
-
+Blvyrnöö /blɤvirnøː/ - The moon; an object of darkness 
 ## Blkyty
 **Part of Speech:**  Noun
 **IPA:** /’blɤkti/

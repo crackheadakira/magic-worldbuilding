@@ -1,4 +1,3 @@
-
 > [!INFO] Syllable Construction Legend
 > - **[C / V]** is used to denote a consonant or vowel that is not written in the word but is pronounced.
 > - **{C / V}** is used to denote a consonant or vowel that is pronounced for a longer period of time.
@@ -49,8 +48,6 @@
 - The word is pronounced with a /ɤ/ sound, but not written.
 
 Blvyr /blɤvir/ - The sun; a ball of fire (CC[V]-CVC)
-Blnvyröö /blɤnvirøː/ - The moon; an object of darkness (CC[V]C-CVC-{V}) One too many syllables
-
 ## K
 **Part of Speech:** Verb
 **IPA:** /’ke/
@@ -91,8 +88,8 @@ Blnvyröö /blɤnvirøː/ - The moon; an object of darkness (CC[V]C-CVC-{V}) One
 **Notes:**
 - Meaning #2 is a specific type of cycle, typically used in religious texts or historical context
 
-Pl /’pl/ - A being; creature (CC) Missing vowel
-Plt /’plht/ - To murder; to kill (CCCC) Missing vowel, too many consonants
+Pl /’pli/ - A being; creature (CC[V])
+Plat /’plat/ - To murder; to kill (CCVC)
 Plus /’plus/ - Me; I (CCVC)
 Plöö /’pløː/ - Title beloning to a higher being; a god (informal) (CC{V})
 Plöök /’pløːk/ - God of medicine, health (informal) (CC{V}C)
