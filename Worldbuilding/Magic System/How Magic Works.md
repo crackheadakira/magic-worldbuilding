@@ -1,10 +1,25 @@
 # Spells
-[[Magicians]] transfer [mana] into atoms to transform them (similar to alchemy, O → H) or their structure to match what they wish to cast. For example if they try to cast a [fire spell], they transform the atoms into combustible substances that are then instantly lit up and impart inertia with a pulse of [mana] onto the now-lit substance.
+[[Magicians]] create “illusions”, and these illusions fool reality into actualizing the spell. They visualize the spell coming to life through manipulating their mana, but mana can’t override mana that have more than a primitive signature.
+For example, a fire mage might visualize mana as a ball on fire that is in motion, and with enough mana inputted reality is distorted actualizing this ball of fire. Every reality distortion comes at a cost, meaning mana has to fight against reality, so one can’t just create anything. The more it distorts, the more it costs.
+
+But a spell always costs the same amount if nothing in the casting methodology (i.e. visualization, mana form, movement, etc) has changed.
+# Spell Collapse
+An uncompleted illusion stores reality-tension within the caster’s mana lines. If the distortion fails, the recoil releases the entire projected cost back into their body at once
+# Illusions
+An illusion is a temporary reality that tries to force itself into reality. For an illusion to materialize, it has to combat the actual reality that exists. Reality follows physical laws, meaning they can’t be violated.
+There can be assumed to be an always initial cost to pierce reality no matter the spell, and in this initial piercing period it is in an unstable form, which means it’s easily collapsible.
+The required mana for a spell can be mathematically explained through equations, but it boils down to a balance of mana needed for the illusion to be stable and mana needed to pierce reality.
 # Casting
 To cast a spell a [[Magicians|magician]] has to first circulate the [mana] within their body — which resides in the internal organs — to the finger tips, below the nails. The [mana] move from the organs to the muscle fibers for faster traversal, but that means [mana] movement speed is dependent on the strength of muscle fibers, which naturally occurs after circulating [mana] repeatedly.
 # The Organs
-As [[Magicians|magicians]] accumulate [mana] for the first time when they’re still a fetus, the composition of their organs slowly transform during development to better accomodate [mana]. The [mana] composition prevents a mage from restructuring living cells — meaning immortality is impossible to attain as they still succumb to natural death. But a mage has a longer lifespan due to the longer time needed for the cells to deteriorate as a side-effect of [mana], meaning a mage has an average lifespan of 150 years — unless they expend all their [mana], hastening their demise. 
-
+As [[Magicians|magicians]] accumulate [mana] for the first time when they’re still a fetus, the composition of their organs slowly transform during development to better accommodate [mana]. The [mana] composition prevents a mage from restructuring living cells — meaning immortality is impossible to attain as they still succumb to natural death. But a mage has a longer lifespan due to the longer time needed for the cells to deteriorate as a side-effect of [mana], meaning a mage has an average lifespan of 150 years — unless they expend all their [mana], hastening their demise. 
+# Mana Signatures
+## Internal Mana
+Every mage is born with an unique [mana] signature. This signature limits the mana a mage can handle due to their organs learning how to process only those signatures. But the organs do filter external mana, albeit at a slow rate, which permits mana recharge.
+## External Mana
+External mana has an unique, primitive signature, with there being regional signatures, meaning if a mage tries to use it without filtration they will strain their organs, and cause internal damage. With the worst-case scenario permanently damaging the organs mana filtration system leading them towards a slow demise where they’re unable to recharge mana.
+## Signature Specialization
+A mage is able to lower the cost of manipulating reality by modifying their signature — a non-reversible procedure — to closer match a reality where their spells aren’t as much of a distortion. For example, a fire mage might modify their signature to be one that originates from a reality where the world is full of fire, so the reality distortion isn’t as far-fetched that the cost becomes lowered.
 
 %%
 # **HOW MANA INTERACTS WITH THE WORLD**
