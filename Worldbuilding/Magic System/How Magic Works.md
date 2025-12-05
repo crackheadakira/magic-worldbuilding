@@ -22,10 +22,22 @@ External mana has an unique, primitive signature, with there being regional sign
 A mage is able to lower the cost of manipulating reality by modifying a portion of their signature — a non-reversible procedure — to closer match a parallel reality where their spells aren’t as much of a distortion. For example, a fire mage might modify their signature to be one that originates from a reality where the world is full of fire, so the cost of creating the spell isn’t as high.
 A spell basically just interacts with a parallel reality that matches your criteria and forcefully removes your desired object from it and places it onto reality. But if your mana signature doesn’t have a set location, it’ll keep hitting different parallel realities every time you cast the spell. But if you have modified your mana signature to align with a parallel reality or realities, you will always traverse the same one allowing you to become more proficient in it.
 # Example of Usage
-## Healing
+## Healing Spells
 Healing magic feels unintuitive, as how can you interact with someone who’s mana signature isn’t primitive. But how this actually occurs is there’s a universal mana signature some mages are born with, where they’re able to actually match the filtering of their own signature to someone else’s. The downside of this universal signature is they’re unable to specialize with a parallel reality, and the fact that the matching signatures is a slow and tedious process.
 Theoretically someone could cause someone to implode after having matched their signatures by manipulating their mana, but as it’s a slow process where you have to be in contact with the mage, it relies upon trust and has rarely happened.
 But once the signatures have been matched, healing takes as long as a normal spell.
+## Illusion Spells
+### Physical Illusions
+- Barriers
+### Mental Illusions
+- Instead of using reality baseline, targets the mages perception baseline.
+	- Target’s resistance (size, intelligence, mental) increases mana cost
+	- Target gains resistance through exposure
+	- Doesn’t rely on parallel reality
+	- On spell failure the caster experiences the mental hallucination themselves, unable to fight back.
+## Mental Spells
+- Memory manipulation, emotional influence
+- Has to match mana signatures (only special universal users)
 ## Group Casting
 Theoretically possible, but no safe way has been found to permit mages to do so.
 
