@@ -1,5 +1,5 @@
 # Spells
-[[Magicians]] create “illusions”, and these illusions fool reality into actualizing the spell. They visualize the spell coming to life through manipulating their mana, but mana can’t override mana that have more than a primitive signature.
+[[Magicians]] create “illusions”, and these illusions fool reality into actualizing the spell. They visualize the spell coming to life through manipulating their mana, but mana can’t override mana that doesn’t contain just a primitive signature.
 For example, a fire mage might visualize mana as a ball on fire that is in motion, and with enough mana inputted reality is distorted actualizing this ball of fire. Every reality distortion comes at a cost, meaning mana has to fight against reality, so one can’t just create anything. The more it distorts, the more it costs.
 
 But a spell always costs the same amount if nothing in the casting methodology (i.e. visualization, mana form, movement, etc) has changed.
@@ -19,22 +19,22 @@ Every mage is born with an unique [mana] signature. This signature limits the ma
 ## External Mana
 External mana has an unique, primitive signature, with there being regional signatures, meaning if a mage tries to use it without filtration they will strain their organs, and cause internal damage. With the worst-case scenario permanently damaging the organs mana filtration system leading them towards a slow demise where they’re unable to recharge mana.
 ## Signature Specialization
-A mage is able to lower the cost of manipulating reality by modifying their signature — a non-reversible procedure — to closer match a reality where their spells aren’t as much of a distortion. For example, a fire mage might modify their signature to be one that originates from a reality where the world is full of fire, so the reality distortion isn’t as far-fetched that the cost becomes lowered.
+A mage is able to lower the cost of manipulating reality by modifying a portion of their signature — a non-reversible procedure — to closer match a parallel reality where their spells aren’t as much of a distortion. For example, a fire mage might modify their signature to be one that originates from a reality where the world is full of fire, so the cost of creating the spell isn’t as high.
+A spell basically just interacts with a parallel reality that matches your criteria and forcefully removes your desired object from it and places it onto reality. But if your mana signature doesn’t have a set location, it’ll keep hitting different parallel realities every time you cast the spell. But if you have modified your mana signature to align with a parallel reality or realities, you will always traverse the same one allowing you to become more proficient in it.
+# Example of Usage
+## Healing
+Healing magic feels unintuitive, as how can you interact with someone who’s mana signature isn’t primitive. But how this actually occurs is there’s a universal mana signature some mages are born with, where they’re able to actually match the filtering of their own signature to someone else’s. The downside of this universal signature is they’re unable to specialize with a parallel reality, and the fact that the matching signatures is a slow and tedious process.
+Theoretically someone could cause someone to implode after having matched their signatures by manipulating their mana, but as it’s a slow process where you have to be in contact with the mage, it relies upon trust and has rarely happened.
+But once the signatures have been matched, healing takes as long as a normal spell.
+## Group Casting
+Theoretically possible, but no safe way has been found to permit mages to do so.
 
 %%
-# **HOW MANA INTERACTS WITH THE WORLD**
-- Does mana overwrite physics temporarily, or does it slot into unused “gaps” in physical law?
-- When a spell transforms atoms, does the world “push back” or resist the transformation?
-- Do spells always obey conservation of energy/mass, or does mana offset those laws?
 # **SOURCE OF POWER & LIMITS**
 - Does a magician cast using internal mana only, or do they actively draw external mana as they cast?
 	- Concept of mana bio-signature → a trait about mana that makes it uniquely yours & accepting mana without your signature is damaging but can be done.
 	- External mana is filtered by your organs to match your bio-signature & to be handled by your body.
-- Is there a difference between:  
-	- a spell fueled entirely by internal mana, vs  
-	- a spell fueled by pulling ambient mana from the area?
 - How does environmental mana density change spell cost or difficulty?
-- Does the world have “mana weather” — storms, tides, waves, seasonal changes?
 # **CASTING PROCESS & PHYSIOLOGY**
 - What sensory experience does a magician feel when mana moves through organs?  
     Heat? Cold? Pressure? A vibration?
@@ -51,11 +51,7 @@ A mage is able to lower the cost of manipulating reality by modifying their sign
 	- They don’t. If they force mana through too quickly then the muscle fibers can rip, and the organs can fail. In those cases you then just have to recuperate.
 # **SCIENTIFIC KNOWLEDGE & TRAINING**
 - What is the basic curriculum in magical institutes?  
-	- (Atomic theory → mana physics → circulation techniques → safezty
-- How do mages calculate how much mana a spell needs?
-	- Is it formulaic or intuitive?
-		- Imagine every spell cast as made up of transactions. Each transaction takes the same amount of mana. but a spell varies in the amount of transactions needed. So it becomes intuitive after a while, but has to be learnt through experimentation.
-- Are there known safe transformation atoms/molecules that beginners practice with?
+	- (Atomic theory → mana physics → circulation techniques → safety
 - Do different schools specialize
 	- Combat
 	- Transmutation
@@ -66,17 +62,6 @@ A mage is able to lower the cost of manipulating reality by modifying their sign
 	- Chemical equations  
 	- Mana flow maps  
 	- Anatomical charts
-# **ATOMIC TRANSFORMATION & SPELL TYPES**
-- What is the smallest stable unit a magician can transform? Atom? Molecule? Cluster?
-- Does the magician need knowledge of chemistry to avoid dangerous combinations?
-- Are there banned transformations due to environmental hazards?
-- Can mages create temporary atoms that decay into harmless forms?
-- Are spells limited by:  
-	- the precision of atomic control  
-	- the caster’s muscle strength  
-	- organ capacity  
-	- environmental mana  
-	- or all at once?
 # **GENERATIONAL DIFFERENCES**
 - Does each generation have slightly different organ adaptations to mana?
 	- Later generations just have a better foundation for adaptability, but that does not mean that the previous generations couldn’t achieve their levels. The new generations just have a different starting point. But they all travel the same path.
@@ -98,11 +83,11 @@ A mage is able to lower the cost of manipulating reality by modifying their sign
 # **SOCIETAL IMPACT ON CASTING**
 - Are there laws about how much mana one can legally extract from an area?
 - Can an overcrowded city become mana-starved if too many mages cast at once?
-- Are there ethical concerns about transforming atoms (e.g. pollution, unintended radiation)?
+	- Yes
 - Do nations weaponize mana training or regulate it heavily?
 # **SPECIALIZATION & VARIANTS**
 - Do some mages have unique “mana signatures” that affect spell style?
-- Are there people with extremely low mana flow (weak muscles → slow spellcasting)?
+- There are people with extremely low mana flow (weak muscles → slow spellcasting)
 - Are there mages with unusual organ distributions leading to special abilities?
 - Do certain ethnic lines or regions produce mages with consistent quirks in mana manipulation?
 # **TECHNOLOGY & MANA**
