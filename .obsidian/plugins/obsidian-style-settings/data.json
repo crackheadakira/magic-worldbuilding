@@ -8,5 +8,6 @@
   "baseline-style@@readable-spacing": true,
   "baseline-style@@colorful-folders": "colorful-folders-dot",
   "baseline-style@@bold-folders": true,
-  "baseline-style@@anim-speed-modifier": 1.5
+  "baseline-style@@anim-speed-modifier": 1.5,
+  "baseline-style@@color-scheme-dark": "flexoki-dark"
 }

@@ -21,6 +21,9 @@ External mana has an unique, primitive signature, with there being regional sign
 ## Signature Specialization
 A mage is able to lower the cost of manipulating reality by modifying a portion of their signature — a non-reversible procedure — to closer match a parallel reality where their spells aren’t as much of a distortion. For example, a fire mage might modify their signature to be one that originates from a reality where the world is full of fire, so the cost of creating the spell isn’t as high.
 A spell basically just interacts with a parallel reality that matches your criteria and forcefully removes your desired object from it and places it onto reality. But if your mana signature doesn’t have a set location, it’ll keep hitting different parallel realities every time you cast the spell. But if you have modified your mana signature to align with a parallel reality or realities, you will always traverse the same one allowing you to become more proficient in it.
+### Procedure
+The procedure involves the mage releasing almost all of their mana, leaving enough to function, then entering a meditating state. A secondary mage comes then and traverses their mana through the mana lines, until they finally reach the organs. There they then cast a spell that tries to grab an organ from an alternate reality that matches the specialization the mage wishes to have. The organ can’t be made younger or older, and they have to find an organ that changes as little as possible of the signature outside of the regions that aids in their specialization.
+The organ is then replaced and the mage in meditation has to try to accept the organ as their own, the younger the mage the higher chance they have of accepting it. In case of organ rejection the spell is immediately broken, making it high risk for both the caster and the recipient. The recipient could possibly have a non-functioning mana organ and lose their ability to handle mana, or in the worst-case experience death within minutes due to the organ being irreparably damaged, leaking mana.
 # Example of Usage
 ## Healing Spells
 Healing magic feels unintuitive, as how can you interact with someone who’s mana signature isn’t primitive. But how this actually occurs is there’s a universal mana signature some mages are born with, where they’re able to actually match the filtering of their own signature to someone else’s. The downside of this universal signature is they’re unable to specialize with a parallel reality, and the fact that the matching signatures is a slow and tedious process.
@@ -40,13 +43,14 @@ But once the signatures have been matched, healing takes as long as a normal spe
 - Has to match mana signatures (only special universal users)
 ## Group Casting
 Theoretically possible, but no safe way has been found to permit mages to do so.
+## Necromancy
+HYAHHH
+## 
 
 %%
 # **SOURCE OF POWER & LIMITS**
-- Does a magician cast using internal mana only, or do they actively draw external mana as they cast?
-	- Concept of mana bio-signature → a trait about mana that makes it uniquely yours & accepting mana without your signature is damaging but can be done.
-	- External mana is filtered by your organs to match your bio-signature & to be handled by your body.
 - How does environmental mana density change spell cost or difficulty?
+	- Doesn’t change at all
 # **CASTING PROCESS & PHYSIOLOGY**
 - What sensory experience does a magician feel when mana moves through organs?  
     Heat? Cold? Pressure? A vibration?
@@ -99,7 +103,7 @@ Theoretically possible, but no safe way has been found to permit mages to do so.
 - Do nations weaponize mana training or regulate it heavily?
 # **SPECIALIZATION & VARIANTS**
 - Do some mages have unique “mana signatures” that affect spell style?
-- There are people with extremely low mana flow (weak muscles → slow spellcasting)
+- There are people with extremely low mana flow (weak muscles → slow spell casting)
 - Are there mages with unusual organ distributions leading to special abilities?
 - Do certain ethnic lines or regions produce mages with consistent quirks in mana manipulation?
 # **TECHNOLOGY & MANA**

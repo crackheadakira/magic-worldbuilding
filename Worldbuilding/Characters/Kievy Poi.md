@@ -7,3 +7,9 @@ Believing that the myth about [[Mana]] was rooted in science, Poi conducted vari
 The compound having caused the environment to gather dense mana made fetuses susceptible to absorbing enough of it to become conscious of it, which led to them attempt to manipulate it.
 
 Now we don’t know where the myth of mana originated from, but scholars believe it to have been an early theory of atoms that was misinterpreted through the times, until Poi’s first interaction with the myth.
+
+%%
+- Kievy’s proto-reactive compound that led to the first reaction of mana (bronze age)
+- Tova now produces mana-reactive materials that can be used in primitive magical tools (iron age)
+- Tovan mana-reactive materials refined outside for magical tools (industrial age)
+%%
