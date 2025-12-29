@@ -114,5 +114,3 @@ Yöö /iøː/ - Plural; better / more helpful → multiple (V-{V})
 
 Öö /øː/ - To be above; Better (describe someone’s skill) ({V})
 Öön /øːn/ - To be lesser; worse ({V}C)
-
-[^1]: ASD
