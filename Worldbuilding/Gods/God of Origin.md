@@ -1,4 +1,10 @@
-> O’ warmth beckoned Him to these realms.
+---
+tags:
+  - type/culture
+  - status/draft
+  - type/character
+---
+> 	O’ warmth beckoned Him to these realms.
 > Realms so desolate and empty,
 > But filled with beauty to spread in the coming times.
 > The sun He embraced, spreading roots of Him.

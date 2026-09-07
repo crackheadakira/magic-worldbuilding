@@ -1,3 +1,8 @@
+---
+tags:
+  - type/magic-system
+  - status/draft
+---
 # Spells
 [[Magicians]] create “illusions”, and these illusions fool reality into actualizing the spell. They visualize the spell coming to life through manipulating their mana, but mana can’t override mana that doesn’t contain just a primitive signature.
 For example, a fire mage might visualize mana as a ball on fire that is in motion, and with enough mana inputted reality is distorted actualizing this ball of fire. Every reality distortion comes at a cost, meaning mana has to fight against reality, so one can’t just create anything. The more it distorts, the more it costs.

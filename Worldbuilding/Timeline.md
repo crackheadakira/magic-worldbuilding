@@ -1,23 +1,22 @@
-## 287 KP (1821 AD)
+## 1200s (600 KPs)
+- First-ever mages are born from the collapse of a neighboring Lattice world, [[Dying-World Mages]], in [[Rottensch-Kame]].
+## 1521 (298 KP)
 - [[Kievy Poi]]'s soil experiment
-## 189 KP (1919 AD)
+## 1523 (296 KP)
 - Activation of soil mana leading to conception of G-ZERO
-## 188 KP (1920 AD)
+## 1623 (196 KP)
 - Birth of G-ZERO
-## 57 KP (2051 AD)
-- Start of the Technological War
-## 54 KP (2054 AD)
-- End of the Technological War
-## 28 KP (2077 AD)
+## 1812 (7 KP)
 - Start of the war of the Lesser Beings
-## 21 KP (2084 AD)
+## 1819 (0 KPN)
 - End of the war of the Lesser Beings
-## 0 KPN (2119 AD)
-- The Magician Deity declares a new historical calendar
-## 250 KPN (2370 AD)
+- [[Prietus The First]] declares a new calendar system.
+## 1835 (16 KPN)
 - [[Kytäk Plöö]]'s revolutionizing magic manufacturing methodology
 - Development of Magician's Rain
-## 251 KPN (2371 AD)
-- [[Kyam]] settling as number one super-power in the world
-## 612 KPN (2732 AD)
+## 1846 (27 KPN)
+- Start of [[The Great War]]
+## 1851 (32 KPN)
+- End of [[The Great War]]
+## 1924 (105 KPN)
 - Present time

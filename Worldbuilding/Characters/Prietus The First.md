@@ -1,6 +1,5 @@
 ---
 tags:
   - status/stub
-  - type/culture
   - type/character
 ---
