@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9e24b4f0733cd8ff",
+        "id": "5a6dc13075f3fa50",
         "type": "tabs",
         "children": [
           {
-            "id": "8c676e9bb97f17eb",
+            "id": "141f2d780f863e57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Wars/War of the Lesser Beings.md",
+                "file": "Worldbuilding/Countries/Bureing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "War of the Lesser Beings"
-            }
-          },
-          {
-            "id": "bc3706d8060920ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worldbuilding/Characters/Kievy Poi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kievy Poi"
+              "title": "Bureing"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,34 +190,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc3706d8060920ec",
+  "active": "141f2d780f863e57",
   "lastOpenFiles": [
+    "Worldbuilding/Countries/Rethtlon.md",
+    "Worldbuilding/Countries/Bureing.md",
+    "Worldbuilding/Countries/Brattenfold.md",
+    "Worldbuilding/Countries/Wayrunn.md",
+    "Worldbuilding/Countries/Corvashen.md",
+    "Worldbuilding/Countries/Wertong.md",
+    "Worldbuilding/Countries/Kaffrys.md",
+    "Worldbuilding/Countries/Velang.md",
+    "Worldbuilding/Countries/Tova.md",
+    "Worldbuilding/Countries/Suveld.md",
+    "Worldbuilding/Countries/Solange.md",
+    "Worldbuilding/Countries/Rottensch-Kame.md",
+    "Worldbuilding/Countries/Ostrevan.md",
+    "Worldbuilding/Countries/Marenholt.md",
+    "Worldbuilding/Countries/Kyam.md",
+    "Worldbuilding/Countries/Jekoyv.md",
+    "Worldbuilding/Countries/Halgard.md",
+    "Worldbuilding/Countries/Gehurt.md",
+    "Worldbuilding/Countries/Calvenne.md",
+    "Worldbuilding/Countries/Byut.md",
+    "Worldbuilding/Countries/Aurentine.md",
+    "Worldbuilding/Characters/Kievy Poi.md",
     "Worldbuilding/Characters/Kytäk Plöö.md",
     "Worldbuilding/Characters/Prietus The First.md",
-    "Worldbuilding/Characters/Kievy Poi.md",
     "Worldbuilding/Characters/Daanus Virta.md",
     "Worldbuilding/Templates/Character.md",
-    "Tags.md",
-    "Worldbuilding/Wars/The Great War.md",
-    "Worldbuilding/Wars/War of the Lesser Beings.md",
-    "Worldbuilding/Timeline.md",
-    "Worldbuilding/Magicians.md",
-    "Worldbuilding/Countries/Jekoyv.md",
-    "Worldbuilding/Countries/Kyam.md",
-    "Worldbuilding/Countries/Byut.md",
-    "Worldbuilding/Countries/Velang.md",
-    "Worldbuilding/Gods/God of Origin.md",
-    "Worldbuilding/Gods/God of Trickery.md",
-    "Greater Jekoyv Area.md",
-    "Worldbuilding/Countries/Tova.md",
-    "Worldbuilding/Countries/Rottensch-Kame.md",
-    "Worldbuilding/Spells/Imprint Severance.md",
-    "Worldbuilding/The Foundations for Mana Usage.md",
-    "Worldbuilding/Magic System/How Magic Works.md",
-    "Worldbuilding/History Dating System.md",
-    "Worldbuilding/Significant Figures.md",
-    "Worldbuilding/Magic System/Cosmology.md",
-    "Worldbuilding/Magic System/The Lattice.md",
     "Worldbuilding/Magic System",
     "Worldbuilding/Wars",
     "Worldbuilding/Templates",
